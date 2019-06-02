@@ -51,7 +51,7 @@ $stu_result_page = mysqli_query($conn,$stu_query_page) or die ('SQL语句有误�
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>超级管理员列表</title>
+    <title>学生列表</title>
     <meta name="description" content="这是一个 table 页面">
     <meta name="keywords" content="table">
     <meta name="viewport" content="width=device-width, initial-scale=1">

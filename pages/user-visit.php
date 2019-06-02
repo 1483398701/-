@@ -60,7 +60,7 @@ if ($as_save != "") {
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>个人资料</title>
+    <title>来访记录</title>
     <meta name="description" content="这是一个 user 页面">
     <meta name="keywords" content="user">
     <meta name="viewport" content="width=device-width, initial-scale=1">
